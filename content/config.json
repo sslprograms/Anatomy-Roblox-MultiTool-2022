@@ -1,0 +1,10 @@
+{
+    "config":{
+        "cookies":{
+            "format":1
+        },
+        "proxies":{
+            "type":"http"
+        }
+    }
+}
