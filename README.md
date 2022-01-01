@@ -11,3 +11,4 @@
 *THIS WAS NOT DESIGNED TO COMPETE WITH ANY PAID PROGRAMS.*
 
 
+(I made this tool when I was 13 and I decided to keep updating it)
